@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mainproduct{
+    margin-left: 200px;
+    width: 900px; 
+    background-color: white;
+
+}
+.product{
+   
+    display: inline-block;
+    width: 200px;
+    margin:0 2px 20px 2px ;
+    border: 2px black solid;
+}
+.mainproduct h1{
+    color: black;
+    margin: 10px;
+}
+.mainproduct h2{
+    color: black;
+}
+.mainproduct p{
+    color :#B197FC;
+}
+.addto
+{
+width: 70%;
+height: 30px;
+margin: 5px;
+}
+.favorite
+{
+width: 20%;
+height: 30px;
+}
+.maincost{
+    width: 5px;
+    height: 5px;
+    color: red;
+    font-size: 70%;
+}
+.cost{
+    color: green;
+}
+img{
+    padding:5px;
+    width: 100%;
+}
