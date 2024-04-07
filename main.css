@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .mainproduct{
-    margin-left: 200px;
+    margin-left: 100px;
     width: 900px; 
     background-color: white;
 
@@ -22,20 +22,27 @@
 }
 .mainproduct h2{
     color: black;
+    margin: 5px;
 }
 .mainproduct p{
     color :#B197FC;
+    margin-bottom: 5px;
 }
 .addto
 {
 width: 70%;
 height: 30px;
-margin: 5px;
+margin: 10px 2px 10px 5px;
+border: #B197FC solid 2px;
+background-color: #B197FC;
 }
 .favorite
 {
 width: 20%;
 height: 30px;
+margin: 10px 5px 10px 2px;
+border: #B197FC solid 2px;
+background-color: white;
 }
 .maincost{
     width: 5px;
